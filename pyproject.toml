@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agents-skill"
+version = "1.0.0"
+description = "Multi-agent orchestrator skill for Claude Code"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+  { name = "YD 2026 Team", email = "dev@yd2026.example.com" }
+]
+keywords = [
+  "claude",
+  "skill",
+  "agents",
+  "orchestrator",
+  "multi-agent",
+  "parallel-execution"
+]
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Intended Audience :: Developers",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Topic :: Software Development :: Libraries"
+]
+
+[project.urls]
+Homepage = "https://github.com/redredchen01/agents-skill"
+Repository = "https://github.com/redredchen01/agents-skill.git"
+Documentation = "https://github.com/redredchen01/agents-skill#readme"
+Issues = "https://github.com/redredchen01/agents-skill/issues"

@@ -1,0 +1,38 @@
+{
+  "name": "agents-skill",
+  "version": "1.0.0",
+  "description": "Multi-agent orchestrator skill for Claude Code — intelligently coordinate AI agents in parallel",
+  "main": "SKILL.md",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "echo 'Run: /agents consult gemini test-this-skill'",
+    "build": "echo 'Pre-built, ready for distribution'"
+  },
+  "keywords": [
+    "claude",
+    "skill",
+    "agents",
+    "orchestrator",
+    "multi-agent",
+    "parallel-execution",
+    "code-review",
+    "ai-coordination"
+  ],
+  "author": "YD 2026 Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/redredchen01/agents-skill"
+  },
+  "homepage": "https://github.com/redredchen01/agents-skill#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
