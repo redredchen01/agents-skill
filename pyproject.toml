@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "agents-skill"
-version = "1.1.0"
+version = "1.1.1"
 description = "Multi-agent orchestrator skill for Claude Code"
 readme = "README.md"
 requires-python = ">=3.8"
@@ -34,7 +34,7 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/redredchen01/agents-skill"
-Repository = "https://github.com/redredchen01/agents-skill.git"
-Documentation = "https://github.com/redredchen01/agents-skill#readme"
-Issues = "https://github.com/redredchen01/agents-skill/issues"
+Homepage = "https://github.com/redredchen01/orchestrator-agents-skill"
+Repository = "https://github.com/redredchen01/orchestrator-agents-skill.git"
+Documentation = "https://github.com/redredchen01/orchestrator-agents-skill#readme"
+Issues = "https://github.com/redredchen01/orchestrator-agents-skill/issues"

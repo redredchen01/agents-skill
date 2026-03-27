@@ -1,6 +1,6 @@
 ---
 name: agents
-version: 1.1.0
+version: 1.1.1
 description: |
   Multi-agent orchestrator — intelligently analyze tasks, auto-select and coordinate 1-3 AI agents in parallel, synthesize results.
   Use when: "multi-agent", "agents", "cross-review", "讓多個agent", "交叉審查", "協調", "第二意見",

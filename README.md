@@ -223,6 +223,11 @@ SKILL.md
 
 ## Version History
 
+**v1.1.1** (2026-03-27)
+- Renamed GitHub repo to orchestrator-agents-skill
+- Updated all URLs and references to new repo name
+- All 6 agent CLIs upgraded to latest versions
+
 **v1.1.0** (2026-03-27)
 - Independent repo release with full triple-publish (GitHub + npm + PyPI)
 - Synced local skill directory with all project files
