@@ -223,6 +223,11 @@ SKILL.md
 
 ## Version History
 
+**v1.1.0** (2026-03-27)
+- Independent repo release with full triple-publish (GitHub + npm + PyPI)
+- Synced local skill directory with all project files
+- Documentation and version consistency improvements
+
 **v1.0.0** (2026-03-26)
 - Initial release
 - 4 modes: Auto, Review, Challenge, Consult

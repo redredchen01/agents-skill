@@ -1,6 +1,6 @@
 {
   "name": "agents-skill",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Multi-agent orchestrator skill for Claude Code — intelligently coordinate AI agents in parallel",
   "main": "SKILL.md",
   "files": [
