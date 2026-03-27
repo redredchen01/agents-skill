@@ -3,7 +3,7 @@ requires = ["setuptools>=45", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "agents-skill"
+name = "orchestrator-agents-skill"
 version = "1.1.1"
 description = "Multi-agent orchestrator skill for Claude Code"
 readme = "README.md"
